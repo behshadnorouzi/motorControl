@@ -1,2 +1,2 @@
 # motorControl
-Building a motor control library for 4 motors with ESP32-WROOM and various functions, including testFunction.
+Creating a motor control library for four motors using the ESP32-WROOM, which includes various functions such as testFunction.
