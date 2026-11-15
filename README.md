@@ -1,6 +1,6 @@
 # MotorControl
 
-[![Compile examples](https://github.com/behshadnorouzi/motorControl/actions/workflows/compile.yml/badge.svg)](https://github.com/behshadnorouzi/motorControl/actions/workflows/compile.yml)
+[![Compile examples](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/compile.yml/badge.svg)](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/compile.yml)
 
 Arduino library for driving a four-wheel robot with an ESP32 and two L298N
 motor drivers. Each side of the robot gets a signed speed (-255..255), which
@@ -40,7 +40,7 @@ Clone or download this repository into your Arduino `libraries` folder:
 
 ```sh
 cd ~/Arduino/libraries
-git clone https://github.com/behshadnorouzi/motorControl.git MotorControl
+git clone https://github.com/behshadnorouzi/esp32-motor-control.git MotorControl
 ```
 
 or use *Sketch → Include Library → Add .ZIP Library* in the Arduino IDE.
