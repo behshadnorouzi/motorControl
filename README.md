@@ -1,6 +1,6 @@
 # MotorControl
 
-[![Compile examples](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/compile.yml/badge.svg)](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/compile.yml)
+[![CI](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/ci.yml/badge.svg)](https://github.com/behshadnorouzi/esp32-motor-control/actions/workflows/ci.yml)
 
 Arduino library for driving a four-wheel robot with an ESP32 and two L298N
 motor drivers. Each side of the robot gets a signed speed (-255..255), which
